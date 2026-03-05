@@ -55,23 +55,24 @@ halls_cola/
 
 1. **Обучение модели:**
    ```bash
-    notebooks/train_model.ipynb
+    train.py
    ```
 
-2. **Обучение с валидацией:**
+2. **Отбор признаков:**
    ```bash
-    notebooks/train_with_validation.ipynb
+   analysis/feature_selection.ipynb
    ```
 
 3. **Feature engeneering:**
    ```bash
-   notebooks/feature_engineering.ipynb
+   analysis/feature_engineering.ipynb
    ```
 4. **Подбор гиперпараметров**
+   analysis/hyperpars_selection.ipynb
 
 5. **Генерация предсказаний:**
    ```bash
-   python test.py
+   test.py
    ```
 
 ## Требования
