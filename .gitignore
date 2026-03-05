@@ -1,0 +1,4 @@
+./config.py
+./submits/*
+./models/*
+./modified_data/*
