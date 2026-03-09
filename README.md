@@ -26,7 +26,7 @@ Macro Averaged ROC-AUC
 ## Структура проекта
 
 ```
-halls_cola/
+financial-product-multilabel/
 ├── data/          # Исходные данные
 ├── processed/     # Обработанные данные
 ├── models/        # Обученные модели
